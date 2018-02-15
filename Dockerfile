@@ -44,7 +44,7 @@ RUN apt-get install -y nano
 RUN apt-get -y install libxss1 libgconf-2-4
 
 
-# Download and install Gradle
+# Download and install Gradle 
 RUN \
     cd /usr/local && \
     curl -L https://services.gradle.org/distributions/gradle-4.3.1-bin.zip -o gradle-4.3.1-bin.zip && \
