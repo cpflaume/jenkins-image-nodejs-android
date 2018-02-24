@@ -3,6 +3,7 @@ CI image for full-stack szenario: Android-App Nodejs Backend Angular 4 Frontend 
 
 # Description
 
+
 This images is based on the recent jenkins/jenkins:lts docker image and extended for a full-stack szenario:
 Android-App
 Nodejs Backend
